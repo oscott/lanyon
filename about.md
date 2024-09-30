@@ -4,26 +4,13 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  You find me. Internet is ok. Real world can provide great explore. Shout to me in real scope.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+In the year 024, I am using paper *Index Cards* to make sense of all these computers full of files. This has really helped clarify what has been going on for many years. However, publishing must continue, so the cards are being converted back into data. This is all hand coded by [Oliver](https://os.koe.pt).
 
-There are currently two themes built on Poole:
+There are currently three bits to this:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* [Catalogue](http://koe.pt) - the old list of projects and colaborations.
+* [CV](http://os.koe.pt) - selected list of my work.
+* [Notes](http://oscott.github.io/lanyon) - this collection of notes about unravelling this process.
